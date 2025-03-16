@@ -1,13 +1,24 @@
-# Synapse
+
 This is a repo of the synapse functions I've written.
 
-
+# Installation
+## Getting the repo
 ```bash
 git clone https://github.com/AdamP1592/Synapse
+
+cd Synapse
+
+```
+
+## Getting the dependencies
+
+```bash
+    pip install -r requirements.txt
 
 ```
 
 ---
+# Synapse
 
 ## Synapse Model
 
