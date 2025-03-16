@@ -2,7 +2,7 @@
 This is a repo of the synapse functions I've written.
 
 # Installation
-## Getting the repo
+1. Getting the repository
 ```bash
 git clone https://github.com/AdamP1592/Synapse
 
@@ -10,7 +10,7 @@ cd Synapse
 
 ```
 
-## Getting the dependencies
+2. install requirements
 
 ```bash
     pip install -r requirements.txt
